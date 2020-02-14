@@ -1,0 +1,5 @@
+﻿  识别.cpp
+c:\users\shen\desktop\shibie\project3\识别.cpp(87): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\shen\desktop\shibie\project3\识别.cpp(89): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\shen\desktop\shibie\project3\识别.cpp(108): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  Project3.vcxproj -> C:\Users\shen\Desktop\shibie\x64\Debug\Project3.exe
